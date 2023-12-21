@@ -117,8 +117,8 @@ p {
     .img-logo {
         width: 90%;
         height: 90%;
-        position: absolute;
-        margin: 150px 10px 0 10px;
+        position: relative;
+        margin: 145px 0 15px 20px;
     }
 
     p {
